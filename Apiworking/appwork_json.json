@@ -1,0 +1,29 @@
+{
+  "Name": "Ali",
+  "Age": 20,
+"subjects": [
+  "Maths","Physics","Chemistry"],
+  "Attributes":{
+    "color": "white",
+    "size": 20
+  },
+  "Images": [
+    {
+      "id": 1,
+      "grade":"A"
+    },
+    {
+      "id": 2,
+      "grade":"B"
+    },
+    {
+      "id": 3,
+      "grade":"C"
+    },
+    {
+      "id": 4,
+      "grade":"D"
+    }
+  ]
+
+}
